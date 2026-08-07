@@ -1,17 +1,17 @@
-# Легион Отсоса / Legion Blowjob
+# Легион Отсоса / Legion Otsosa
 
 Official organization of the project.
 
 ## Links
 
 - Website: https://пипися.рф
-- Telegram: https://t.me/LegionBlowjob
-- Modrinth: https://modrinth.com/organization/legionblowjob
+- Telegram: https://t.me/LegionOtsosa
+- Modrinth: https://modrinth.com/organization/legionotsosa
 
 ## Notes
 
-The names **"Legion Blowjob"** and **"Легион Отсоса"**,
-the domain **"пипися.рф"**,
+The names **"Legion Otsosa"** and **"Легион Отсоса"**,
+the domains **"пипися.рф"** and **"отсоса.рф"**,
 and all related logos, branding, visual identity,
 and derivative or confusingly similar names
 are reserved project assets
