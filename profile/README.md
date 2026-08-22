@@ -4,7 +4,7 @@ Official organization of the project.
 
 ## Links
 
-* Website: [https://пипися.рф](https://пипися.рф)
+* Website: [https://легион.отсоса.рф](https://легион.отсоса.рф)
 * Telegram: [https://t.me/LegionOtsosa](https://t.me/LegionOtsosa)
 * Modrinth: [https://modrinth.com/organization/legionotsosa](https://modrinth.com/organization/legionotsosa)
 
