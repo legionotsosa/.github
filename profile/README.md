@@ -32,4 +32,4 @@ or official status is not permitted without explicit permission.
 Third-party software, assets, and other materials remain subject to
 their respective licenses and ownership rights.
 
-© 2026 **BopikD**. All rights reserved.
+> © 2026 **BopikD**. All rights reserved.
